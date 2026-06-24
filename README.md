@@ -8,6 +8,12 @@ An interactive, browser-based phishing awareness training tool. Users review rea
 
 ---
 
+## 🚀 Live Demo
+
+🔗 https://malikaira.github.io/OptimusAutomate_Password_Analyzer/Password_Analyzer.html
+
+---
+
 ## 📸 Preview
 
 | Intro Screen | Email Case | Quiz | Results |
